@@ -1,6 +1,6 @@
 # Vereinssatzung
 
-Diese Satzung wurde von der Gründungsversammlung am 08.04.2019 beschlossen.
+Diese Satzung wurde von der Gründungsversammlung am 08.04.2019 beschlossen und zuletzt von der Mitgliederversammlung am 19.06.2019 geändert.
 
 
 ## § 1 Name, Sitz, Geschäftsjahr
@@ -102,7 +102,7 @@ Die Organe des Vereins sind
 
 (3) Der Verein wird gerichtlich durch mindestens zwei Mitglieder des Vorstands gemeinschaftlich vertreten. Außergerichtlich kann jedes Mitglied des Vorstands den Verein einzeln vertreten.
 
-(4) Die Vertretungsmacht des Vorstands ist mit einer Wirkung gegen Dritte in der Weise beschränkt, dass für Rechtsgeschäfte mit einem Geschäftswert ab 1.000 Euro, zum Erwerb oder Verkauf, zur Belastung und zu allen sonstigen Verfügungen über Grundstücke oder grundstücksgleiche Rechte und zur Aufnahme von Krediten die Zustimmung der Mitgliederversammlung erforderlich ist.
+(4) Die Vertretungsmacht des Vorstands ist mit einer Wirkung gegen Dritte in der Weise beschränkt, dass für Rechtsgeschäfte zum Erwerb oder Verkauf, zur Belastung und zu allen sonstigen Verfügungen über Grundstücke oder grundstücksgleiche Rechte und zur Aufnahme von Krediten die Zustimmung der Mitgliederversammlung erforderlich ist.
 
 
 ## § 10 Zuständigkeiten des Vorstands
