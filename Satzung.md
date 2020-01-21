@@ -1,6 +1,6 @@
 # Vereinssatzung
 
-Diese Satzung wurde von der Gründungsversammlung am 08.04.2019 beschlossen und zuletzt von der Mitgliederversammlung am 19.06.2019 geändert.
+Diese Satzung wurde von der Gründungsversammlung am 08.04.2019 beschlossen und zuletzt von der Mitgliederversammlung am 31.01.2020 geändert.
 
 
 ## § 1 Name, Sitz, Geschäftsjahr
@@ -18,12 +18,16 @@ Diese Satzung wurde von der Gründungsversammlung am 08.04.2019 beschlossen und 
 
 (1) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
-(2) Der Zweck des Vereins ist die Förderung von Wissenschaft, Forschung und Kultur und die Studierendenhilfe.
+(2) Der Zweck des Vereins ist die Förderung von Wissenschaft, Forschung und Kultur sowie die Förderung der  Volks- und Berufsbildung einschließlich der Studentenhilfe und die Beschaffung von Mitteln für die Verwirklichung der steuerbegünstigten Zwecke der Fachschaft Digital Engineering als Teil der Studierendenschaft der Universität Potsdam als Teilkörperschaft der Universität Potsdam.
 
 (3) Der Satzungszweck wird insbesondere verwirklicht durch
 
-1. die Förderung der Interessen der Fachschaft Digital Engineering an der Universität Potsdam und
-2. die ideelle und finanzielle Unterstützung des Fachschaftsrates Digital Engineering an der Universität Potsdam sowie die Unterstützung bei der Durchführung von dessen Veranstaltungen.
+1. die Förderung der Interessen der Fachschaft Digital Engineering an der Universität Potsdam, beispielsweise durch das Einladen und die Bezahlung von Referentinnen und Referenten für Informationsveranstaltungen zu studiums- bzw. forschungsbezogenen sowie aktuellen gesellschaftlichen Themen,
+2. die ideelle und finanzielle Unterstützung des Fachschaftsrates Digital Engineering an der Universität Potsdam sowie die Bezuschussung von Teilnahmebeiträgen für Studierende bei Studienfahrten,
+3. die Ausrichtung von nicht-gewinnorientierten Ausstellungen, Konzerten und vergleichbaren Veranstaltungen mit Fokus auf Künstlerinnen und Künstler aus der Studierendenschaft sowie Veranstaltungen zur Studieninformation, Studienein- und -ausgangsphase und Bewerbung der Angebote der Fachschaft,
+4. die für die unter 1. bis 3. beschriebenen Punkte notwendige Beschaffung von Technik und Materialien,
+5. die Vergabe von Preisen für besondere Leistungen in den durch den Verein geförderten Bereichen und
+6. die Anschaffung von Materialien zur Bereicherung des Forschungs- und Lehrbetriebs.
 
 
 ## § 3 Gemeinnützigkeit
