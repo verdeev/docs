@@ -185,7 +185,7 @@ Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie ni
 
 (1) Die Auflösung des Vereins kann nur in einer Mitgliederversammlung mit der in § 14 (6) festgelegten Stimmenmehrheit beschlossen werden. Sofern die Mitgliederversammlung nichts anderes beschließt, sind die bisherigen Vorstandsmitglieder Liquidatoren des Vereins. Die vorstehenden Vorschriften gelten entsprechend für den Fall, dass der Verein aus einem anderen Grund aufgelöst wird oder seine Rechtsfähigkeit verliert.
 
-(2) Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Hasso-Plattner-Institut für Digital Engineering gGmbH, die es unmittelbar und ausschließlich für gemeinnützige, dieser Satzung entsprechende, Zwecke zu verwenden und die gewählte studentische Vertretung an der Entscheidung über die Verwendung zu beteiligen hat.
+(2) Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen des Vereins an die Hasso-Plattner-Institut für Digital Engineering gGmbH, die es unmittelbar und ausschließlich für gemeinnützige, dieser Satzung entsprechende, Zwecke zu verwenden und die gewählte studentische Vertretung an der Entscheidung über die Verwendung zu beteiligen hat.
 
 
 ## § 16 Inkrafttreten
