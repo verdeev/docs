@@ -157,7 +157,7 @@ Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie ni
 
 (2) Mitgliederversammlungen werden vom Vorstand in Textform, z.B. per E-Mail, unter Einhaltung einer Frist von einer Woche und Angabe der vorläufigen Tagesordnung einberufen. Einladungen gelten Mitgliedern als zugegangen, wenn sie an die letzte dem Verein in Textform bekanntgegebene E-Mail-Adresse gerichtet sind.
 
-(3) Der Vorstand muss jedes Jahr fristgemäß zu einer ordentlichen Mitgliederversammlung einladen, die im Mai stattfindet.
+(3) Der Vorstand muss jedes Jahr fristgemäß zu einer ordentlichen Mitgliederversammlung einladen, die zwischen April und August stattfindet.
 
 (4) Der Vorstand kann jederzeit eine außerordentliche Mitgliederversammlung einberufen. Sie muss einberufen werden, wenn das Interesse des Vereins es erfordert oder wenn die Einberufung von einem Viertel aller Mitglieder in Textform, z.B. per E-Mail, unter Angabe der Gründe vom Vorstand verlangt wird. In letzterem Fall muss die außerordentliche Mitgliederversammlung spätestens vier Wochen nach Eingang des Antrags tagen.
 
