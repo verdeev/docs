@@ -1,6 +1,6 @@
 # Vereinssatzung
 
-Diese Satzung wurde von der Gründungsversammlung am 08.04.2019 beschlossen und zuletzt von der Mitgliederversammlung am XX.XX.2026 geändert.
+Diese Satzung wurde von der Gründungsversammlung am 08.04.2019 beschlossen und zuletzt von der Mitgliederversammlung am 26.05.2026 geändert.
 
 
 ## § 1 Name, Sitz, Geschäftsjahr
